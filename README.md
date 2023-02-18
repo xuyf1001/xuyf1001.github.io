@@ -1,4 +1,4 @@
-# Welcome to read xuyf's code_review!
-这是许云飞的code_review。
+# Welcome to read xuyf's note and review of code!
+这是个人代码学习及问题复盘的网站，欢迎讨论。
 
-[跳转](/es/es.md "es工作问题解决")。
+[es](/es/es_note.md "es_note")
